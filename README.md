@@ -9,4 +9,9 @@
 Tools
 <br/>
 <img src="https://img.shields.io/badge/Visual Studio Code-007acc?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-000?style=flat-square&logo=Figma&logoColor=white"/>
+<br/>
+<br/>
 
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lse1656)](https://github.com/lse1656/github-readme-stats)
